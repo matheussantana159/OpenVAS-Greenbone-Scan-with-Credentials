@@ -73,8 +73,13 @@ Optionally Adjust groups and permissions according to requirements.
 
 <h2>Review and Fine-Tune Scan Results</h2>
 
+  - After each scan a report will generate and will typically have reccomended solution or patches.
 
 
+<h2>Advanced Configurations</h2>
+  - Custom port lists
+  - Performace Tuning
+  - Alert and Notifications
 
 
 
