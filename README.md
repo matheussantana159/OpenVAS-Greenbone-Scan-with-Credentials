@@ -82,8 +82,10 @@ Optionally Adjust groups and permissions according to requirements.
   - Alert and Notifications
 
 
+# Credentials
 
-
+Two specific users were created for the scan test, one with base level rights (day to day user) and a higher user (more access but not admin). 
+The authenticated scan was set up in order to verify with deeper visability of missing patches, software versions, insecure settings and configurations at the system level.
 
 
 
