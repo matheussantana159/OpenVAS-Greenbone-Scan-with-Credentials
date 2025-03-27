@@ -12,7 +12,7 @@ One VM each with the following OS.
 
 After starting up both VM's and updating to latest versions, on kali download latest Greenbone source archives or clone the Git repo.
 
-```
+```bash
 git clone https://github.com/greenbone/gvm-libs.git
 git clone https://github.com/greenbone/openvas.git
 git clone https://github.com/greenbone/gvmd.git
