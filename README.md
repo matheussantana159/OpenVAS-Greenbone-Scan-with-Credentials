@@ -55,7 +55,7 @@ Optionally Adjust groups and permissions according to requirements.
   sudo greenbone-feed-sync --type GVM-DATA
   ```
 
-2. <h3>Configuring a Network Scan</h3>
+<h2>Configuring a Network Scan</h2>
   
   1. Login
     - Navigate to *Scans > Tasks*
