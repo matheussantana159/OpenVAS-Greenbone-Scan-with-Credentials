@@ -75,8 +75,8 @@ Optionally Adjust groups and permissions according to requirements.
 
   - After each scan a report will generate and will typically have reccomended solution or patches.
 
-
 <h2>Advanced Configurations</h2>
+
   - Custom port lists
   - Performace Tuning
   - Alert and Notifications
