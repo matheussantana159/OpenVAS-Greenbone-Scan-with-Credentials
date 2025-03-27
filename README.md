@@ -10,20 +10,30 @@ One VM each with the following OS.
 
 <h2>Installation</h2>
 
-After starting up both VM's and updating to latest versions, on kali download latest Greenbone source archives or clone the Git repo.
+1. After starting up both VM's and updating to latest versions, on kali download latest Greenbone version. 
 
 ```bash
-git clone https://github.com/greenbone/gvm-libs.git
-git clone https://github.com/greenbone/openvas.git
-git clone https://github.com/greenbone/gvmd.git
-git clone https://github.com/greenbone/gsa.git
+sudo apt install gvm
 ```
 
+2. Configure Community Edition and *NOTE DOWN* the provided Admin password from output.
 
+```bash
+sudo gvm-setup
+```
 
+3. Check installation status.
 
+```bash
+gvm-check-setup
+```
 
+When running it for the first time check the IP:PORT it defaults to in the web browser, loggin in after the session you can use the commands to start and stop 
 
+```bash
+sudo gvm-start
+sudo gvm-stop
+```
 
 
 
